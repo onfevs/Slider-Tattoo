@@ -1,0 +1,39 @@
+{
+    "slides": [
+      {
+        "id": 1,
+        "image": "/Slider-Tattoo/img/1.jpg",
+        "thumbnail": "/Slider-Tattoo/img/1.jpg"
+      },
+      {
+        "id": 2,
+        "image": "/Slider-Tattoo/img/2.png",
+        "thumbnail": "/Slider-Tattoo/img/2.png"
+      },
+      {
+        "id": 3,
+        "image": "/Slider-Tattoo/img/3.jpg",
+        "thumbnail": "/Slider-Tattoo/img/3.jpg"
+      },
+      {
+        "id": 4,
+        "image": "/Slider-Tattoo/img/4.png",
+        "thumbnail": "/Slider-Tattoo/img/4.png"
+      },
+      {
+        "id": 5,
+        "image": "/Slider-Tattoo/img/5.jpg",
+        "thumbnail": "/Slider-Tattoo/img/5.jpg"
+      },
+      {
+        "id": 6,
+        "image": "/Slider-Tattoo/img/6.png",
+        "thumbnail": "/Slider-Tattoo/img/6.png"
+      },
+      {
+        "id": 7,
+        "image": "/Slider-Tattoo/img/7.jpg",
+        "thumbnail": "/Slider-Tattoo/img/7.jpg"
+      }
+    ]
+  }
